@@ -8,5 +8,5 @@ public class Student {
     private String name;
     private String age;
     private String school;
-    private String name02;
+    private String name01;
 }
