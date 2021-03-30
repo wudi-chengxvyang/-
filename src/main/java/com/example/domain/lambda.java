@@ -11,5 +11,6 @@ public class lambda {
         System.out.println(a>b?a-b:b-a);
         System.out.println(b);
         System.out.println(a);
+        System.out.println("aaaa");
     }
 }
