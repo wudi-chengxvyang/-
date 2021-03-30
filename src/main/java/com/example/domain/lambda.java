@@ -9,8 +9,5 @@ public class lambda {
             lambda.test();*/
            int a=8,b=8;
         System.out.println(a>b?a-b:b-a);
-        System.out.println(b);
-        System.out.println(a);
-        System.out.println("aaaa");
     }
 }
