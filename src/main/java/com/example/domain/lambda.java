@@ -12,5 +12,6 @@ public class lambda {
         System.out.println(b);
         System.out.println(a);
         System.out.println("aaaa");
+        System.out.println("sdhjavcyg");
     }
 }
